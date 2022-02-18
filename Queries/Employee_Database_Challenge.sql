@@ -37,4 +37,12 @@ FROM retirement_titles
 WHERE to_date = '9999-01-01'
 ORDER BY emp_no, to_date DESC;
 
--- 
+-- number of employees who are about to retire by job title
+
+select count(emp_no),
+title
+into retiring_titles
+from unique_titles
+group by title
+order by count(emp_no) desc;
+
