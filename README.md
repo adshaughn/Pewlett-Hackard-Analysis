@@ -2,24 +2,24 @@
 
 # Overview
 
-As the number of employees approaching retirement continues to rise, the leadership at Pewlitt-Hackard have requested an analysis of employees close to retirment age, to as to better identify which departments and roles will need backfilling in the coming years. This analysis seeks to provide additoinal detail
+As the number of employees approaching retirement continues to rise, the leadership at Pewlitt-Hackard have requested an analysis of employees close to retirment age, to as to better identify which departments and roles will need backfilling in the coming years. This analysis therefore highlights which roles and departments will be particularly affected by the "silver wave"
 
 # Results
 
-- number of retiring employees by title
+- As exepcted, the bulk of retirees are senior-level, with roughly 25,000 senior engineers and 25,000 senior staff members within three years of retirement age.
 
-- 2
+- For each role, this is more than twice the number of staff in non-senior level roles, with 9285 engineers and 7636 staff on payroll.
 
-- mentorship eligibility
+- There are 580 Assistant Engineers and Engineers who are eligible for mentorship.
 
-- 2
+- There are 154 Staff who are eligible for mentorship.
 
 # Summary
 
+- Based on the above results, it is imperative for the company to hire at least 10,000 to 15,000 engineers and staffers in the coming years, to blunt the impact of the "silver tsunami"
 
+- Reviewing the data in this analysis, it is clear there are not enough potential "mentees", ready to move into senior roles. The company needs to do more to ensure talent is cultivated within the company.
 
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- This is especially necessary given the need to rapidly increase hiring; those who are currently eligible for mentorship will in a few years need to become mentors to many new hires.
+
+- Additionally, the company should query the data to determine how long people are staying in role before moving up a level, and consider if that average tenure is appropriate.
